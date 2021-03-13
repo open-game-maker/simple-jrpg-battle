@@ -15,8 +15,8 @@
         var attack1 = 20;
 
         //プレイヤー2の能力
-        var playerHP2 = 100;
-        var attack2 = 30;
+        var playerHP2 = 200;
+        var attack2 = 50;
 
         state = [[playerHP1, attack1], [playerHP2, attack2]];
 
